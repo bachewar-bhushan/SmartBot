@@ -1,0 +1,2 @@
+## SmartBot: Real-Time Gas Monitoring and Anomaly Detection in Petroleum Industry Using IoT and Machine Learning
+SmartBot, a remote-controlled car, operated via the Blynk IoT app, is equipped with MQ-2, MQ-3, and MQ-135 sensors for real-time environmental data collection. Continuously transmitting data to Google Sheets, SmartBot utilizes the One Class SVM model for anomaly detection, ensuring early identification of irregularities in various environments. 
