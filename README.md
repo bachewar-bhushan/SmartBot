@@ -30,4 +30,5 @@ SmartBot, a remote-controlled car, operated via the Blynk IoT app, is equipped w
 
 Check out this video demonstration to see SmartBot in action:
 
-[Watch Video]([https://drive.google.com/file/d/YOUR_FILE_ID_HERE/view?usp=sharing](https://drive.google.com/file/d/1_J8lU9RZnxMFQNCjEJvBX9Zs4pwNoNJt/view?usp=sharing))
+[Watch Video](https://drive.google.com/file/d/1_J8lU9RZnxMFQNCjEJvBX9Zs4pwNoNJt/view?usp=sharing)
+
