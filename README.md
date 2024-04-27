@@ -23,6 +23,9 @@ SmartBot, a remote-controlled car, operated via the Blynk IoT app, is equipped w
 ## Features
 ![Features](https://github.com/bachewar-bhushan/SmartBot/assets/150711051/47fc5df9-cde5-4117-8708-96719af648c5)
 
+## Block Diagram
+![Block Diagram](https://github.com/bachewar-bhushan/SmartBot/assets/150711051/506507b4-455d-4d7a-9307-b95a97459c49)
+
 ## Circuit Diagram 
 ![Raspberry Pi Pico W and Sensors](https://github.com/bachewar-bhushan/SmartBot/assets/142074907/fecacc1b-fa01-4436-8969-2afc7731bb63)
 
