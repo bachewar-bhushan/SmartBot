@@ -1,6 +1,6 @@
 # SmartBot: Real-Time Gas Monitoring and Anomaly Detection in Petroleum Industry Using IoT and Machine Learning
 ![WhatsApp Image 2024-04-08 at 11 41 29 PM](https://github.com/bachewar-bhushan/SmartBot/assets/142074907/2019ee7e-c3f5-4ee3-9cff-60a0e94f9099)
-SmartBot revolutionizes remote monitoring in the petroleum industry with its advanced capabilities. This remote-controlled car, powered by the Blynk IoT app, is equipped with MQ-2, MQ-3, and MQ-135 sensors for real-time data collection in petroleum environments. Continuously logging data to Google Sheets, SmartBot employs the One Class SVM model to detect anomalies, ensuring early identification of potential hazards or irregularities. 
+SmartBot revolutionizes remote monitoring in the petroleum industry with its advanced capabilities. This remote-controlled car, controlled by the Blynk IoT app, is equipped with MQ-2, MQ-3, and MQ-135 sensors for real-time data collection in petroleum environments. Continuously logging data to Google Sheets, SmartBot employs the One Class SVM model to detect anomalies, ensuring early identification of potential hazards or irregularities. 
 
 ## Components and Functions
 1. Raspberry Pi PIco W : The Raspberry Pi Pico W is utilized for transmitting sensor data to Google Sheets via webhooks.
