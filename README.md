@@ -20,11 +20,13 @@ SmartBot, a remote-controlled car, operated via the Blynk IoT app, is equipped w
 | L298N Motor Driver  | 1      |
 | LEDs                | 4      |
 
+## Features
+![Features](https://github.com/bachewar-bhushan/SmartBot/assets/150711051/47fc5df9-cde5-4117-8708-96719af648c5)
 
 ## Circuit Diagram 
-   ![Raspberry Pi Pico W and Sensors](https://github.com/bachewar-bhushan/SmartBot/assets/142074907/fecacc1b-fa01-4436-8969-2afc7731bb63)
+![Raspberry Pi Pico W and Sensors](https://github.com/bachewar-bhushan/SmartBot/assets/142074907/fecacc1b-fa01-4436-8969-2afc7731bb63)
 
-   ![ESP8266 and L298N Motor Driver](https://github.com/bachewar-bhushan/SmartBot/assets/142074907/1e939ce1-ca5a-4ee6-86a3-70f5dd9ecce0)
+![ESP8266 and L298N Motor Driver](https://github.com/bachewar-bhushan/SmartBot/assets/142074907/1e939ce1-ca5a-4ee6-86a3-70f5dd9ecce0)
 
 ## Video Demonstration
 
